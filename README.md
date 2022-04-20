@@ -23,3 +23,5 @@
 <p style="flex-basis:48%;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulmandyal1&show_icons=true&locale=en" alt="rahulmandyal1" /></p>
 
 </div>
+<br>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
