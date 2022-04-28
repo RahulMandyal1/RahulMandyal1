@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul , a Full Stack Developer</h1>
 
 <h1 align="center"></h1>
-- 📝 I regularly write articles on [https://dev.to/rahulmandyal](https://dev.to/rahulmandyal)
+- 📝 I regularly write articles on https://dev.to/rahulmandyal
 
 ## Connect with me:
 
