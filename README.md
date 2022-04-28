@@ -2,15 +2,19 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Rahul , a Full Stack Developer</h1>
 
 <h1 align="center"></h1>
-- 📝 I regularly write articles on https://dev.to/rahulmandyal
 
-## Connect with me:
 
-<p align="left">
-<a href="https://dev.to/https://dev.to/rahulmandyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rahulmandyal" height="30" width="40" /></a>
-<a href="https://twitter.com/rahulmandyal4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulmandyal4" height="30" width="40" /></a>
-</p>
+### :white_medium_small_square: Get In Touch
 
+   <nav>
+       <a href= "https://twitter.com/RahulMandyal4" target="_blank">
+          <img src="./assets/twitter-icon.png" width="30px" height="30px"/> 
+       </a>
+       <a href="mailto:rahulmandyal079@gmail.com" target="_blank">
+          <img src="./assets/gmail-icon.png" width="30px" height="30px"/> 
+       </a>
+   </nav>
+<br>
 
 ### :white_medium_small_square: Tech And Tools
 
@@ -33,4 +37,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmandyal1&theme=tokyonight" height="270px" width="29.25%"/>
   </p>
 <br/>
+### :white_medium_small_square: Read My Articles
+- 📝 https://dev.to/rahulmandyal
+
 
