@@ -23,8 +23,6 @@
           <img src="https://docs.codewars.com/logo.svg" margin-right="20px" width="30px" height="30px"/> 
        </a>
    </nav>
-<br>
-
 ### :white_medium_small_square: Tech And Tools
 
    <p> 
@@ -45,8 +43,6 @@
       <img src="https://github-readme-stats.vercel.app/api?username=rahulmandyal1&show_icons=true&theme=tokyonight" height="270px" width="70.25%"/> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulmandyal1&theme=tokyonight" height="270px" width="29.25%"/>
   </p>
-<br/>
-
 ### :white_medium_small_square: Read My Articles 📝 https://dev.to/rahulmandyal
 
 
