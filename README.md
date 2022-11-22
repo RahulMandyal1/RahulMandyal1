@@ -5,6 +5,7 @@
       <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
       , I'm Rahul , a Full Stack Developer
    </h2>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulmandyal1&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmandyal" /> </p>
 </header>
 
 ### :white_medium_small_square: Get In Touch
