@@ -26,9 +26,6 @@
    <br>
 
 
-### :white_medium_small_square:  Read My Articles 📝 https://dev.to/rahulmandyal
-
-
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=rahulmandyal1&label=Profile%20views&color=0e75b6&style=flat" alt="rahulmandyal" /> </p>
 
 
